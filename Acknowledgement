@@ -1,0 +1,10 @@
+I would like to thank Dr. Ihab F. Ilyas and Mina Farid for their continuous support and guidance towards us for completing this project. I
+would also like to thank Archit Shah and Marain Boktor for coordinating and collaborating in this project. 
+
+Reference:
+Rekatsinas, T., Chu, X., Ilyas, I.F. and Ré, C., 2017. Holoclean: Holistic data repairs
+with probabilistic inference. Proceedings of the VLDB Endowment , 10 (11),
+pp.1190-1201.
+
+HoloClean paper Link: https://cs.uwaterloo.ca/~ilyas/papers/RekatsinasHoloClean.pdf 
+Github link (Original framework): https://github.com/HoloClean/holoclean
